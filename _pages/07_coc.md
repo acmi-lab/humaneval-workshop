@@ -5,22 +5,22 @@ title: Code of Conduct
 description: We provide an additional code of conduct to ensure a safe environment to reflect on ML research.
 ---
 
-HAMLETS workshop  prioritize the maintenance of an inclusive environment that allows for a diversity of researchers to honestly reflect on developments in the field and opportunities for growth.  Because critically reflecting on previous work is a sensitive subject, we outline here a set of principles and processes to support honest self-reflection within a healthy community of machine learning researchers.
+This workshop prioritizes the maintenance of an inclusive environment that allows for a diversity of researchers to honestly reflect on developments in the field and opportunities for growth.  Because critically reflecting on previous work is a sensitive subject, we outline here a set of principles and processes to support honest self-reflection within a healthy community of machine learning researchers.
 
-All participants, including attendees, authors, members of the organizing committee, members of the program committee, speakers, sponsors, and volunteers, are required to agree with the following code of conduct. Organisers will enforce this code throughout the workshop and the review and publication process of HAMLETS. 
+All participants, including attendees, authors, members of the organizing committee, members of the program committee, speakers, sponsors, and volunteers, are required to agree with the following code of conduct. Organisers will enforce this code throughout the workshop and the review and publication process of the workshop. 
 
 ### The Quick Version
 
-HAMLETS is dedicated to providing a harassment-free experience for everyone. This  includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, physical appearance, family status, technological or professional choices, academic discipline, religion, mental ability, and physical ability. We do not tolerate harassment of participants in any form. 
+We are dedicated to providing a harassment-free experience for everyone. This  includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, physical appearance, family status, technological or professional choices, academic discipline, religion, mental ability, and physical ability. We do not tolerate harassment of participants in any form. 
 
-This code of conduct applies to all spaces in which submissions to HAMLETS are shared, both online and off.  In addition, violations of this code outside these spaces will affect a person's ability to participate within them.
+This code of conduct applies to all spaces in which submissions to this workshop are shared, both online and off.  In addition, violations of this code outside these spaces will affect a person's ability to participate within them.
 
 ### The Longer version
 
 We are committed to fostering a productive, harassment-free environment for everyone. Rather than considering this code an exhaustive list of things that you can’t do, take it in the spirit it is intended - a guide to make it easier to enrich all of us and the communities in which we participate.
 
-This code applies equally to founders, developers, mentors and new community members, in all spaces managed by HAMLETS organizing committee. This includes our GitHub organization, workshop, other in-person events, and any other forums created by the organizer committee. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
-By embracing the following principles, guidelines and actions to follow or avoid, you will help us make the HAMLETS community welcoming and productive. Feel free to contact the Code of Conduct Committee at *hamlets.neurips2020@gmail.com* with any questions.
+This code applies equally to founders, developers, mentors and new community members, in all spaces managed by the organizing committee. This includes our GitHub organization, workshop, other in-person events, and any other forums created by the organizer committee. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+By embracing the following principles, guidelines and actions to follow or avoid, you will help us make the community welcoming and productive. Feel free to contact the Code of Conduct Committee with any questions.
 1. Be friendly and patient.
 2. Be welcoming. We strive to be a community that welcomes and supports people of all backgrounds and identities. This  includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, physical appearance, family status, technological or professional choices, academic discipline, religion, mental ability, and physical ability. We do not tolerate harassment of participants in any form. 
 3. Be considerate. Your work as an author, reviewer, presenter, or organizer will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect our colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community. You may be communicating with someone with a different primary language or cultural background.
@@ -46,5 +46,5 @@ The online form gives you the option to keep your report anonymous or request th
 
 ### Acknowledgements
 
-Original text courtesy of [ConfCodeofConduct](https://confcodeofconduct.com/), [Speak Up!](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), [Django](https://www.djangoproject.com/conduct/), and [Project Jupyter](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md), modified by the HAMLETS organizing committee. We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
+Original text courtesy of [ConfCodeofConduct](https://confcodeofconduct.com/), [Speak Up!](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), [Django](https://www.djangoproject.com/conduct/), and [Project Jupyter](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md), modified by the organizing committee. We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
 All content on this page is licensed under a Creative Commons Attribution license.

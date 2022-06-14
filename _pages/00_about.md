@@ -15,66 +15,14 @@ organizers: true
 
 #### Topics of interest for submission include but are not limited to the following:
 
-  <table style="background-color: #FAFAFA;">
-        <col width="40">
-        <col width="100">
-        <tr style="border: none;">       
-            <td style="border: none;">
-            <b> <font size="+0" color="purple">Experimental design and methods for human evaluations</font> </b>
-            </td>
-            <td style="border: none;">
-            <i> Role of human evaluation in the context of value alignment of large generative models</i>   
-            </td>                        
-        </tr>
-        <tr style="border: none;">    
-        <td style="border: none;">
-            <b> <font size="+0" color="purple">Interpretability</font></b> 
-            </td>
-            <td style="border: none;">
-            <i> Role of humans in building trustworthy AI systems: model interpretability and algorithmic fairness.</i>
-            </td>  
-        </tr>
-        <tr style="border: none;">
-        <td style="border: none;">
-            <b> <font size="+0" color="purple">Human as Model Adversary</font></b>
-            </td>
-            <td style="border: none;">
-            <i> Designing testbeds for evaluating generative models</i>
-            </td>
-        </tr>
-        <tr style="border: none;">
-        <td style="border: none;">
-            <b> <font size="+0" color="purple">System Design</font></b>
-            </td>
-            <td style="border: none;">
-            <i> Reproducibility of human evaluations</i>
-            </td>
-        </tr>
-        <tr style="border: none;">
-        <td style="border: none;">
-            <b> <font size="+0" color="purple">Model Evaluation</font></b>
-            </td>
-            <td style="border: none;">
-            <i> Ethical considerations in human evaluation of computational systems</i>
-            </td>
-        </tr>
-        <tr style="border: none;">
-            <td style="border: none;">
-            <b><font size="+0" color="purple">Crowdsourcing</font></b>
-            </td>
-            <td style="border: none;">
-            <i> Issues in meta-evaluation of automatic metrics by correlation with human evaluations</i>
-            </td>
-        </tr>
-        <tr style="border: none;">
-            <td style="border: none;">
-            <b><font size="+0" color="purple">Crowdsourcing</font></b>
-            </td>
-            <td style="border: none;">
-            <i> Methods for assessing the quality and the reliability of human evaluations</i>
-            </td>
-        </tr>
-  </table>   
+- Experimental design and methods for human evaluations
+- Role of human evaluation in the context of value alignment of large generative models
+- Designing testbeds for evaluating generative models
+- Reproducibility of human evaluations
+- Ethical considerations in human evaluation of computational systems
+- Issues in meta-evaluation of automatic metrics by correlation with human evaluations
+- Methods for assessing the quality and the reliability of human evaluations
+  
 
 
 

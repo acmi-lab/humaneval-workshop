@@ -1,10 +1,10 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: HAMLETS 2020
+name: Human Evaluation for Generative Models
 email:
 description: > # this means to ignore newlines until "url:"
-  A Venue for human-in-the-loop machine learning.
+  A venue for discussing the future of human evaluations of generative models
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,7 +17,7 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: hamlets-workshop
+github_username: humaneval-workshop
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -33,13 +33,11 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Published Retrospectives
-blog_description: These are papers which have been reviewed and accepted in HAMLETS 2020.
 
 # Pagination
 paginate: 4
-permalink: /published_hamlets/:year/:title/
-paginate_path: /published_hamlets/page:num/
+permalink: /published_humaneval/:year/:title/
+paginate_path: /published_humaneval/page:num/
 
 text:
   pagination:

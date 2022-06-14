@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Human Evaluation for Generative Models
+name: HEGM 2022
 email:
 description: > # this means to ignore newlines until "url:"
   A venue for discussing the future of human evaluations of generative models

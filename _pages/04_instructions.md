@@ -7,7 +7,7 @@ description: Information about submitting to the NeurIPS 2022 Workshop on Human 
 
 #### Key Dates 
 
-* TBDA
+* TBA
 
 #### Submission Instructions
 

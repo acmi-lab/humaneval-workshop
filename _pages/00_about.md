@@ -13,6 +13,12 @@ social: true
 organizers: true
 ---
 
+#### Key Dates 
+
+* Submission Deadline: September 15th, 23:59 GMT
+* Accept/Reject notifications: October 20th
+* Workshop: December 3rd, in person in New Orleans
+
 #### Topics of interest for submission include but are not limited to the following:
 
 - Experimental design and methods for human evaluations

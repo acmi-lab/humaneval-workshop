@@ -8,7 +8,7 @@ profile:
   align: right
   image: 
   address: 
-news: true
+news: false
 social: true
 organizers: true
 ---

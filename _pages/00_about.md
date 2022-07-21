@@ -34,6 +34,8 @@ In partnership with the [Day One Project](https://dayoneproject.org)---a project
   
 
 
+Contact us at hegm-workshop at lists.andrew.cmu.edu if you have any questions
+
 
 
 <div style="line-height:40%;">

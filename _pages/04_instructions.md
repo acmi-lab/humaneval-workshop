@@ -7,10 +7,17 @@ description: Information about submitting to the NeurIPS 2022 Workshop on Human 
 
 #### Key Dates 
 
-* TBA
+* Submission Deadline: September 15th, 23:59 GMT
+* Accept/Reject notifications: October 20th
+* Workshop: December 3rd, in person in New Orleans
 
 #### Submission Instructions
 
-* TBA
+Authors are encouraged to submit short technical, position, or policy papers, adhering to the following guidelines on the [Openreview portal](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/HEGM).
 
-The workshop's papers are non-archival. We encourage authors to submit new and original work, in the form of work in progres, or move advanced work that will benefit the discussion the workshop aims to foster.
+* Submissions should be anonymized and follow the NeurIPS 2022 format.
+* We accept paper submissions with a maximum length of 4 pages (excluding references and any supplementary material).
+* Previously published work will not be accepted as part of the workshop but work published solely as a preprint is welcome.
+* Camera-ready versions will allow for one extra page to incorporate reviewers' feedback.
+
+The workshop's papers are non-archival.

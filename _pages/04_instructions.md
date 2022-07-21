@@ -19,5 +19,6 @@ Authors are encouraged to submit short technical, position, or policy papers, ad
 * We accept paper submissions with a maximum length of 4 pages (excluding references and any supplementary material).
 * Previously published work will not be accepted as part of the workshop but work published solely as a preprint is welcome.
 * Camera-ready versions will allow for one extra page to incorporate reviewers' feedback.
+* Authors whose papers share clear policy recommendations will have an opportunity to convert their work into a policy memo and work with the Day One team on implementing it.
 
 The workshop's papers are non-archival.

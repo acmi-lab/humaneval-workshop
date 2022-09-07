@@ -7,7 +7,7 @@ description: Information about submitting to the NeurIPS 2022 Workshop on Human 
 
 #### Key Dates 
 
-* Submission Deadline: September 15th, 23:59 GMT
+* Submission Deadline: September 22nd, 23:59 GMT
 * Accept/Reject notifications: October 20th
 * Workshop: December 3rd, in person in New Orleans
 

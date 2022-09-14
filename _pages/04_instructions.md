@@ -13,7 +13,7 @@ description: Information about submitting to the NeurIPS 2022 Workshop on Human 
 
 #### Submission Instructions
 
-Authors are encouraged to submit short technical, position, or policy papers, adhering to the following guidelines on the [Openreview portal](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/HEGM).
+Authors are encouraged to submit short technical, position, or policy papers, adhering to the following guidelines on the [Openreview portal](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/HEGM). Submissions will be double blind.
 
 * Submissions should be anonymized and follow the NeurIPS 2022 format.
 * We accept paper submissions with a maximum length of 4 pages (excluding references and any supplementary material).

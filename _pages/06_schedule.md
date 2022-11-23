@@ -1,5 +1,8 @@
 ---
-Schedule 12/3
+layout: page
+permalink: /schedule/
+title: Schedule 12/3
+description: Schedule
 ---
 https://neurips.cc/virtual/2022/workshop/49978
 

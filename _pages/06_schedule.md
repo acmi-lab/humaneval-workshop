@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /schedule/
-title: Schedule 12/3
-description: Schedule
+title: Schedule
+description: Schedule 12/3
 ---
-https://neurips.cc/virtual/2022/workshop/49978
+[https://neurips.cc/virtual/2022/workshop/49978](https://neurips.cc/virtual/2022/workshop/49978) 
 
 All times are with respect to the America/New_York timezone. Please find links to the papers and SlidesLive videos at the above link.
 

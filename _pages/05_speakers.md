@@ -6,18 +6,22 @@ description: List of speakers for keynote and panels
 ---
 
 ## Keynote
-<!-- <div>
+<div>
   <p><strong>Jason Weston</strong></p>
-  <p><img src="http://www.thespermwhale.com/jaseweston/jason.jpg" width="150"></p>
   <p>Research Scientist at Meta AI</b>
-</div> -->
+  <p><img src="http://www.thespermwhale.com/jaseweston/jason.jpg" style="height:150px"></p>
+</div>
+
+<br><br><br><br><br><br>
 
 ## Technical Panel
-<!-- <div>
+<div>
   <p><strong>Long Ouyang</strong></p>
-  <p><img src="http://zx.gd/academic/me.jpg" width="150"></p>
   <p>Research Scientist at OpenAI</p>
-</div> -->
+  <p><img src="http://zx.gd/academic/me.jpg" style="height:150px"></p>
+</div>
+
+<br><br><br><br><br><br>
 
 <p><strong>Sherry Tongshuang Wu</strong></p>
 <p style="clear: right; text-align: left;">Assistant Professor at Carnegie Mellon University</p>
@@ -40,15 +44,19 @@ description: List of speakers for keynote and panels
   <p><img src="https://law.stanford.edu/wp-content/uploads/2020/10/creating-a-national-research-cloud-400x400.jpg" style="height:150px"></p>
 </div>
 
-<!-- ## Funders Panel -->
-<!-- <div>
+<br><br><br><br><br><br>
+
+## Funders Panel
+<div>
   <p><strong>Brittany Smith</strong></p>
-  <p><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHQlPY7h-Ub1g/profile-displayphoto-shrink_200_200/0/1539632136759?e=1674691200&v=beta&t=RNRRn520v6rdahhWobgnuLgRm2RXJi3jv1V3wZlVcbA" width="150"></p>
   <p>Manager at Schmidt Futures</p>
+  <p><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHQlPY7h-Ub1g/profile-displayphoto-shrink_200_200/0/1539632136759?e=1674691200&v=beta&t=RNRRn520v6rdahhWobgnuLgRm2RXJi3jv1V3wZlVcbA" style="height:150px"></p>
 </div>
+
+<br><br><br><br><br><br>
 
 <div>
   <p><strong>Eric Sears</strong></p>
-  <p><img src="https://www.macfound.org/media/staff_photos/eric-sears.jpg" width="150"></p>
   <p>Associate Director, Technology in the Public Interest at the MacArthur Foundation</p>
-</div> -->
+  <p><img src="https://www.macfound.org/media/staff_photos/eric-sears.jpg" style="height:150px"></p>
+</div>

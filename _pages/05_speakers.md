@@ -29,6 +29,8 @@ Research Scientist at OpenAI
   <p><img src="https://www.cs.cmu.edu/~sherryw/assets/avatar.png" width="150"></p>
 </div>
 
+<br>
+
 Assistant Professor at Carnegie Mellon University
 
 ## Policy Panel

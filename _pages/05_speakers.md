@@ -8,7 +8,7 @@ description: List of speakers for keynote and panels
 <h2> Keynote </h2>
 <div>
   <p><strong>Jason Weston</strong></p>
-  <p>Research Scientist at Meta AI</b>
+  <p>Research Scientist at Meta AI</p>
   <p><img src="/assets/img/jason_weston.jpeg" style="height:150px"></p>
 </div>
 

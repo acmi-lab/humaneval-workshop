@@ -21,8 +21,8 @@ description: List of speakers for keynote and panels
 
 <div>
   <p><strong>Sherry Tongshuang Wu</strong></p>
-  <p><img src="https://www.cs.cmu.edu/~sherryw/assets/avatar.png" width="150"></p>
-  <p>Assistant Professor at Carnegie Mellon University</p>
+  <img src="https://www.cs.cmu.edu/~sherryw/assets/avatar.png" width="150" style="float: left;">
+  <p style="clear: right; text-align: left;">Assistant Professor at Carnegie Mellon University</p>
 </div>
 
 ## Policy Panel

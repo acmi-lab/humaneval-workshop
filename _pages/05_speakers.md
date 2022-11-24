@@ -9,7 +9,7 @@ description: List of speakers for keynote and panels
 <div>
   <p><strong>Jason Weston</strong></p>
   <p>Research Scientist at Meta AI</b>
-  <p><img src="http://www.thespermwhale.com/jaseweston/jason.jpg" style="height:150px"></p>
+  <p><img src="https://github.com/humaneval-workshop/humaneval-workshop.github.io/blob/main/assets/img/jason_weston.jpeg" style="height:150px"></p>
 </div>
 
 <br><br><br><br><br><br><br><br>
@@ -18,7 +18,7 @@ description: List of speakers for keynote and panels
 <div>
   <p><strong>Long Ouyang</strong></p>
   <p>Research Scientist at OpenAI</p>
-  <p><img src="http://zx.gd/academic/me.jpg" style="height:150px"></p>
+  <p><img src="https://github.com/humaneval-workshop/humaneval-workshop.github.io/blob/main/assets/img/long_ouyang.jpeg" style="height:150px"></p>
 </div>
 
 <br><br><br><br><br><br><br><br>

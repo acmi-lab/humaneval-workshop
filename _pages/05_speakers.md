@@ -6,18 +6,18 @@ description: List of speakers for keynote and panels
 ---
 
 ## Keynote
-<div>
+<!-- <div>
   <p><strong>Jason Weston</strong></p>
   <p><img src="http://www.thespermwhale.com/jaseweston/jason.jpg" width="150"></p>
   <p>Research Scientist at Meta AI</b>
-</div>
+</div> -->
 
 ## Technical Panel
-<div>
+<!-- <div>
   <p><strong>Long Ouyang</strong></p>
   <p><img src="http://zx.gd/academic/me.jpg" width="150"></p>
   <p>Research Scientist at OpenAI</p>
-</div>
+</div> -->
 
 <div>
   <p><strong>Sherry Tongshuang Wu</strong></p>

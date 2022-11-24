@@ -19,11 +19,11 @@ description: List of speakers for keynote and panels
   <p>Research Scientist at OpenAI</p>
 </div> -->
 
-<!-- <div>
-  <p><strong>Sherry Tongshuang Wu</strong></p>
-  <img src="https://www.cs.cmu.edu/~sherryw/assets/avatar.png" width="150" style="float: left;">
-  <p style="clear: right; text-align: left;">Assistant Professor at Carnegie Mellon University</p>
-</div> -->
+<p><strong>Sherry Tongshuang Wu</strong></p>
+<figure>
+  <img src="https://www.cs.cmu.edu/~sherryw/assets/avatar.png" style="width:30%">
+</figure>
+<p style="clear: right; text-align: left;">Assistant Professor at Carnegie Mellon University</p>
 
 ## Policy Panel
 <!-- <div>

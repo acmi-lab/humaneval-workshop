@@ -21,7 +21,7 @@ description: List of speakers for keynote and panels
 
 <p><strong>Sherry Tongshuang Wu</strong></p>
 <p style="clear: right; text-align: left;">Assistant Professor at Carnegie Mellon University</p>
-<img src="https://www.cs.cmu.edu/~sherryw/assets/avatar.png" style="height:20%">
+<img src="https://www.cs.cmu.edu/~sherryw/assets/avatar.png" style="height:150px">
 
 <br><br><br><br><br><br><br>
 
@@ -29,7 +29,7 @@ description: List of speakers for keynote and panels
 <div>
   <p><strong>Irene Solaiman</strong></p>
   <p>Policy Director at Hugging Face</p>
-  <p><img src="https://www.irenesolaiman.com/img/laughing.jpg" width="height:20%"></p>
+  <p><img src="https://www.irenesolaiman.com/img/laughing.jpg" width="height:150px"></p>
 </div>
 
 <br><br><br><br><br><br><br>
@@ -37,7 +37,7 @@ description: List of speakers for keynote and panels
 <div>
   <p><strong>Russell Wald</strong></p>
   <p>Director of Policy for Stanford’s Institute for Human-Centered Artificial Intelligence</p>
-  <p><img src="https://law.stanford.edu/wp-content/uploads/2020/10/creating-a-national-research-cloud-400x400.jpg" width="height:20%"></p>
+  <p><img src="https://law.stanford.edu/wp-content/uploads/2020/10/creating-a-national-research-cloud-400x400.jpg" width="height:150px"></p>
 </div>
 
 <!-- ## Funders Panel -->

@@ -12,7 +12,7 @@ description: List of speakers for keynote and panels
   <p>Research Scientist at Meta AI</b>
 </div> -->
 
-## Technical Panel
+<!-- ## Technical Panel -->
 <!-- <div>
   <p><strong>Long Ouyang</strong></p>
   <p><img src="http://zx.gd/academic/me.jpg" width="150"></p>
@@ -20,12 +20,10 @@ description: List of speakers for keynote and panels
 </div> -->
 
 <p><strong>Sherry Tongshuang Wu</strong></p>
-<figure>
-  <img src="https://www.cs.cmu.edu/~sherryw/assets/avatar.png" style="width:30%">
-</figure>
+<img src="https://www.cs.cmu.edu/~sherryw/assets/avatar.png" style="width:30%">
 <p style="clear: right; text-align: left;">Assistant Professor at Carnegie Mellon University</p>
 
-## Policy Panel
+<!-- ## Policy Panel -->
 <!-- <div>
   <p><strong>Irene Solaiman</strong></p>
   <p><img src="https://www.irenesolaiman.com/img/laughing.jpg" width="150"></p>
@@ -38,7 +36,7 @@ description: List of speakers for keynote and panels
   <p>Director of Policy for Stanford’s Institute for Human-Centered Artificial Intelligence</p>
 </div> -->
 
-## Funders Panel
+<!-- ## Funders Panel -->
 <!-- <div>
   <p><strong>Brittany Smith</strong></p>
   <p><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHQlPY7h-Ub1g/profile-displayphoto-shrink_200_200/0/1539632136759?e=1674691200&v=beta&t=RNRRn520v6rdahhWobgnuLgRm2RXJi3jv1V3wZlVcbA" width="150"></p>

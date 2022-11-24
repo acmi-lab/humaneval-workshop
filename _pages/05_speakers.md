@@ -5,7 +5,7 @@ title: Talks
 description: List of speakers for keynote and panels
 ---
 
-<!-- <h2> Keynote </h2>
+<h2> Keynote </h2>
 <div>
   <p><strong>Jason Weston</strong></p>
   <p>Research Scientist at Meta AI</b>
@@ -21,7 +21,7 @@ description: List of speakers for keynote and panels
   <p><img src="http://zx.gd/academic/me.jpg" style="height:150px"></p>
 </div>
 
-<br><br><br><br><br><br><br><br> -->
+<br><br><br><br><br><br><br><br>
 
 <p><strong>Sherry Tongshuang Wu</strong></p>
 <p style="clear: right; text-align: left;">Assistant Professor at Carnegie Mellon University</p>
